@@ -45,7 +45,7 @@ The dataset includes historical sales data with features like:
    ```
 
 ## Files in the Repository
-- `sales_prediction.ipynb`: Jupyter Notebook containing the entire workflow.
+- `modelling.ipynb`: Jupyter Notebook containing the entire workflow.
 - `train.csv`: Training dataset.
 - `test.csv`: Test dataset.
 - `submission_predictions.csv`: Predicted results for the test dataset.
